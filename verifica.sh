@@ -12,3 +12,4 @@ while read  IP NAME; do
 		echo "$NAME in $1!"
 	fi
 done < "$1"
+echo "Modificare facuta de Robert"
